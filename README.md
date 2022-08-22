@@ -14,5 +14,5 @@ Jira, SQL, TestLink, Postman
 * SQL for Testers - Linkedin Learning
 * Planning and Relesing Software with Jira - Linkedin Learning
 ## SQL
-* [ZADANIA SQL] (https://docs.google.com/document/d/1ydjXuTx8lMT4rZim0F9IFMoRpc9V0wluL6q9B7lQI8c/edit?usp=sharing)
+* [ZADANIA SQL](https://docs.google.com/document/d/1ydjXuTx8lMT4rZim0F9IFMoRpc9V0wluL6q9B7lQI8c/edit?usp=sharing)
 
