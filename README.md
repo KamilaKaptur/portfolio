@@ -14,5 +14,7 @@ Jira, SQL, TestLink, Postman
 * SQL for Testers - Linkedin Learning
 * Planning and Relesing Software with Jira - Linkedin Learning
 ## SQL
-* [ZADANIA SQL](https://docs.google.com/document/d/1ydjXuTx8lMT4rZim0F9IFMoRpc9V0wluL6q9B7lQI8c/edit?usp=sharing)
+* [Zadania SQL](https://docs.google.com/document/d/1ydjXuTx8lMT4rZim0F9IFMoRpc9V0wluL6q9B7lQI8c/edit?usp=sharing)
+* [Projekt - Design a store database](https://docs.google.com/document/d/1wEYZYxV_jjCNNVmU6HDgv09Uwh76LDX2Q58e-_iU4nc/edit?usp=sharing)
+## PRZYPADKI TESTOWE
 
