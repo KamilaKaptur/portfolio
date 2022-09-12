@@ -19,5 +19,5 @@ Jira, SQL, TestLink, Postman
 ## PRZYPADKI TESTOWE
 * [Grand Application Form](https://1drv.ms/x/s!AuzxfsEAO3VpggSRI-QWCpvcipyA?e=YGr9rq)
 ## DOŚWIADCZENIE 
-* UTest - przejście UTest Academy, zgłaszanie błędów
+* UTest - UTest Academy, zgłaszanie błędów
 * wynajmij24.pl - sprawdzanie nowych funkcjonalności, testy dokonywania płatności, proponowanie usprawnień na stronie 
