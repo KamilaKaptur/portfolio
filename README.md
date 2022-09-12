@@ -18,4 +18,6 @@ Jira, SQL, TestLink, Postman
 * [Projekt - Design a store database](https://docs.google.com/document/d/1wEYZYxV_jjCNNVmU6HDgv09Uwh76LDX2Q58e-_iU4nc/edit?usp=sharing)
 ## PRZYPADKI TESTOWE
 * [Grand Application Form](https://1drv.ms/x/s!AuzxfsEAO3VpggSRI-QWCpvcipyA?e=YGr9rq)
-
+## DOŚWIADCZENIE 
+* UTest - przejście UTest Academy, zgłaszanie błędów
+* wynajmij24.pl - sprawdzanie nowych funkcjonalności, testy dokonywania płatności, proponowanie usprawnień na stronie 
