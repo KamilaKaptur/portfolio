@@ -1,6 +1,6 @@
 # portfolio
 # O MNIE 
-Cechuje mnie wysoka chęć rozwoju oraz ciekawość świata. Stale zdobywam wiedzę z zakresu testowania oprogramowania i chcę być w tym najlepsza ;) Moje naturalne cechy jak cierpliwość, dociekliwość i doprowadzanie rzeczy do końca idealnie przekładają się na prace testera. 
+Cechuje mnie wysoka chęć rozwoju oraz ciekawość. Stale zdobywam wiedzę z zakresu testowania oprogramowania i chcę być w tym najlepsza ;) Moje naturalne cechy jak cierpliwość, dociekliwość i doprowadzanie rzeczy do końca idealnie przekładają się na prace testera. 
 ## NARZĘDZIA
 Jira, SQL, TestLink, Postman
 ## UMIEJĘTNOŚCI TECHNICZNE
