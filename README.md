@@ -2,12 +2,13 @@
 # O MNIE 
 Cechuje mnie wysoka chęć rozwoju oraz ciekawość. Stale zdobywam wiedzę z zakresu testowania oprogramowania i chcę być w tym najlepsza ;) Moje naturalne cechy jak cierpliwość, dociekliwość i doprowadzanie rzeczy do końca idealnie przekładają się na prace testera. 
 ## NARZĘDZIA
-Jira, SQL, TestLink, Postman
+Jira, TestLink, Postman
 ## UMIEJĘTNOŚCI TECHNICZNE
 * Testowanie oprogramowania
 * Tworzenie przypadków testowych
 * Zgłaszanie błędów
-* Pisanie scenariuszy
+* Pisanie scenariuszy testowych
+* Podstawy SQL
 ## SZKOLENIA
 * Praktyczny kurs testowania oprogramowania - Udemy
 * Podstawy manualnego testowania oprogramowania - Udemy
