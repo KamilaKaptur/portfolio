@@ -5,13 +5,18 @@
 :uk: I am characterized by a high level of development and curiosity. I am constantly gaining knowledge in the field of software testing and I want to be the best at it 😄 My natural skills such as inquisitiveness and making things done attitude perfectly fit into the work of a tester.
 
 ## PRZYPADKI TESTOWE/TEST CASES
-* **Przypadki testowe oparte na historyjkach użytkownika/Test cases based on User Story**
+:star:[Pisanie przypadków testowych na podstawie User Story/Test Cases based on User Story](https://docs.google.com/spreadsheets/d/1-Dj80wkALCH8KBuQ29N2KECa2NDwgw8WnTxP4ZWfpWk/edit?usp=sharing):star:
+
 ![1](https://user-images.githubusercontent.com/111735785/204828905-9c7e8684-2bd7-436e-a1d3-03cc99a13bc5.png)
 
-* **Przypadki testowe oparte na własnym doświadczeniu/Test cases based on own experience**
+:star:[Pisanie przypadków testowych na podstawie własnych doświadczeń/Test Cases based on own experience](https://docs.google.com/spreadsheets/d/1ODxihziU5m2tb20uDvOwaoL5wxrzwVlxP9sjnpPxkyo/edit?usp=sharing):star:
+
 ![2](https://user-images.githubusercontent.com/111735785/204838624-047c0c08-6f02-44d4-a547-81147fdaca0e.png)
 
-* [Grand Application Form](https://1drv.ms/x/s!AuzxfsEAO3VpggSRI-QWCpvcipyA?e=YGr9rq)
+:star: [Test Cases 1](https://docs.google.com/spreadsheets/d/1oNwOBzpA_U65f6R__Apm8b5xdBkZ41dkI4d_ylCyj5s/edit?usp=sharing) :star:
+
+:star: [Test Cases 2](https://docs.google.com/spreadsheets/d/1hRTYRFDygDu-V6alVXS_5JpHeRMnGfzrYfV8-87alJo/edit?usp=sharing) :star:
+
 
 ## ZGŁASZANIE BŁĘDÓW/BUG REPORTING
 ![3](https://user-images.githubusercontent.com/111735785/204843597-eef20955-f1f7-432c-8b19-89f47c76e3d3.png)
