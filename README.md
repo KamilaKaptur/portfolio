@@ -4,6 +4,9 @@
 
 :uk: Hello! I'm Kamila and I decided to change my professional path to software testing because in other positions I lacked challenges and opportunities for development. I am characterized by curiosity and empathy, which is why it is easy for me to look at applications from the user's or business client's perspective. I am constantly gaining knowledge in the field of software testing and I want to be the best at it 😄 My natural skills such as inquisitiveness and making things done attitude perfectly fit into the work of a tester.
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamila-kaptur-43a645225/)
+
+
 ## PRZYPADKI TESTOWE/TEST CASES
 :star:[Pisanie przypadków testowych na podstawie User Story/Test Cases based on User Story](https://docs.google.com/spreadsheets/d/1-Dj80wkALCH8KBuQ29N2KECa2NDwgw8WnTxP4ZWfpWk/edit?usp=sharing):star:
 
@@ -27,9 +30,9 @@
 
 
 ## SQL
-* [SQL queries 1](https://docs.google.com/document/d/1Mabg_z50yoXUanTIXBQ_iD5KLPKg8Dyy4RtcjVZumzA/edit?usp=sharing)
-* [SQL queries 2](https://docs.google.com/document/d/1ydjXuTx8lMT4rZim0F9IFMoRpc9V0wluL6q9B7lQI8c/edit?usp=sharing)
-* [Projekt - Design a store database](https://docs.google.com/document/d/1wEYZYxV_jjCNNVmU6HDgv09Uwh76LDX2Q58e-_iU4nc/edit?usp=sharing)
+* [SQL task 1](https://docs.google.com/document/d/1Mabg_z50yoXUanTIXBQ_iD5KLPKg8Dyy4RtcjVZumzA/edit?usp=sharing)
+* [SQL task 2](https://docs.google.com/document/d/1ydjXuTx8lMT4rZim0F9IFMoRpc9V0wluL6q9B7lQI8c/edit?usp=sharing)
+* [Project - Create a store database](https://docs.google.com/document/d/1wEYZYxV_jjCNNVmU6HDgv09Uwh76LDX2Q58e-_iU4nc/edit?usp=sharing)
 
 ## DOŚWIADCZENIE/EXPERIENCE
 * UTest - UTest Academy, bugs reporting
@@ -52,6 +55,7 @@ Jira, TestLink, Postman, Devtools, Slack, Github
 
 ## SZKOLENIA/COURSES
 * Dare IT Challenge "Become a Manual Tester" 
+⚫[Challenge portfolio](https://docs.google.com/document/d/1Mabg_z50yoXUanTIXBQ_iD5KLPKg8Dyy4RtcjVZumzA/edit?usp=sharing)⚫
 
 * Planning and Relesing Software with Jira - Linkedin Learning
 
