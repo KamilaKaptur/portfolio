@@ -52,8 +52,12 @@ Jira, TestLink, Postman, Devtools, Slack, Github, Xampp, mySQL
 
 * Podstawowa znajomość SQL / Basics of SQL language
 
+* Podstawowa znajmość HTML/CSS / Basics of HTML/CSS
+
 
 ## SZKOLENIA / COURSES :school:
+* GoIT HTML/CSS 7 days Challange ⚫[Challenge work](https://ubiquitous-platypus-18bf98.netlify.app/)⚫
+
 * Dare IT Challenge "Become a Manual Tester" 
 ⚫[Challenge portfolio](https://docs.google.com/document/d/1Mabg_z50yoXUanTIXBQ_iD5KLPKg8Dyy4RtcjVZumzA/edit?usp=sharing)⚫
 
