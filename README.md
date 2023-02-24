@@ -1,6 +1,6 @@
 # portfolio
 ## O MNIE / ABOUT ME :woman:
-🇵🇱 Cześć! Nazwyam się Kamila i postanowiłam się przebranżowić na testera oprogramowania ponieważ na innych stanowiskach brakowało mi wyzwań oraz możliwości rozwoju. Cechuje mnie ciekawość i empatia dlatego łatwo mi przychodzi patrzenie na oplikacje od strony użytkownika lub klienta biznesowego. Stale zdobywam wiedzę z zakresu testowania oprogramowania i chcę być w tym najlepsza 😄 Moje naturalne cechy jak cierpliwość, dociekliwość i doprowadzanie rzeczy do końca idealnie przekładają się na prace testera. 
+🇵🇱 Cześć! Nazwyam się Kamila i postanowiłam przebranżowić się na testera oprogramowania ponieważ na innych stanowiskach brakowało mi wyzwań oraz możliwości rozwoju. Cechuje mnie ciekawość i empatia dlatego łatwo mi przychodzi patrzenie na aplikacje od strony użytkownika lub klienta biznesowego. Stale zdobywam wiedzę z zakresu testowania oprogramowania i chcę być w tym najlepsza 😄 Moje naturalne cechy jak cierpliwość, dociekliwość i doprowadzanie rzeczy do końca idealnie przekładają się na prace testera. 
 
 :uk: Hello! I'm Kamila and I decided to change my professional path to software testing because in other positions I lacked challenges and opportunities for development. I am characterized by curiosity and empathy, which is why it is easy for me to look at applications from the user's or business client's perspective. I am constantly gaining knowledge in the field of software testing and I want to be the best at it 😄 My natural skills such as inquisitiveness and making things done attitude perfectly fit into the work of a tester.
 
@@ -81,3 +81,9 @@ Jira, TestLink, Postman, Devtools, Slack, Github, Xampp, mySQL
 * Zwracanie uwagi na szczegóły / Attention to detail
 
 * Empatia / Empathy 
+
+* Sumienność / Conscientiousness
+
+* Cierpliowść / Patience 
+
+
